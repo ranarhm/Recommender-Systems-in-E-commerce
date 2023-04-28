@@ -1,5 +1,5 @@
-# Recommender-Systems-in-E-commerce
-Project Problem Statement
+# Recommender-Systems-in-E-commerce  
+# Project Problem Statement  
 With the exponential growth of e-commerce platforms and the increasing number of products
 available for purchase, customers are finding it challenging to navigate through the vast range
 of options to find the most suitable products for their needs. People are turning towards various
@@ -13,7 +13,7 @@ dynamic recommender system that can take into account contextual factors in addi
 historical data and preferences to provide highly relevant and personalized product
 recommendations to customers, thereby enhancing their shopping experience and increasing
 customer loyalty for e-commerce platforms.
-Data Set
+# Data Set  
 The Amazon product co-purchasing network dataset[1] consists of purchase data from
 Amazon.com, which was collected over a period of several years. It includes metadata and
 customer reviews for over 548,000 products, as well as product-to-product co-purchasing links
@@ -44,6 +44,6 @@ network analysis, and graph theory. It provides an excellent opportunity to expl
 of customer purchase behaviors and develop new recommendation algorithms.
 
 
-Due to the size limit on uploads to GitHub, we uploaded all our data to our official Google Drive Folder [here](https://drive.google.com/drive/folders/15GFSOxY5qBnk-ubOP2uOWbDob8Ab-Nc-?usp=share_link)
+Due to the size limit on uploads to GitHub, we uploaded all our data to our official Google Drive Folder [here](https://drive.google.com/drive/folders/15GFSOxY5qBnk-ubOP2uOWbDob8Ab-Nc-?usp=share_link)  
 1 Available here: https://snap.stanford.edu/data/amazon-meta.html
 
